@@ -11,7 +11,7 @@ The To-Do List App
 
 ## <h1>Wireframes</h1>
 
-<img src= "src/wireframes/basic_calendar.png" alt= "Basic calendar view">
+<img src= "src/wireframe/todo.png">
 
 
 
