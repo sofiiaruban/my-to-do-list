@@ -9,9 +9,9 @@ The To-Do List App
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp
 </p>
 
-## <h1>Wireframes</h1>
+## <h1>Wireframe</h1>
 
-<img src= "src/wireframe/todo.png">
+<img src= "wireframe/todo.png">
 
 
 
