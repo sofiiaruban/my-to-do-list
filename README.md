@@ -1,6 +1,7 @@
 <h1> General info </h1>
 
-The To-Do List App
+The To-Do List App with pagination
+
 ## <h1>Technology Stack </h1>
 
 <p align="left">
